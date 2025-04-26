@@ -26,3 +26,4 @@ replay_pid*
 /Java-Excel-Example/.gradle/**
 /spring-unit-test/.idea
 /spring-unit-test/target
+/.vscode
